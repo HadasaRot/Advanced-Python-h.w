@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6590850b-3005-4ce1-84bf-84e2373ff270" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson1/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6590850b-3005-4ce1-84bf-84e2373ff270" name="Changes" comment="Initial Project">
+      <change afterPath="$PROJECT_DIR$/lesson2/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/app/book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/app/library.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/app/test_library.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AdvancedPython-h.w.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AdvancedPython-h.w.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,10 +27,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HadasaRot&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HadasaRot/Advanced-Python-h.w.git&quot;,
+    &quot;accountId&quot;: &quot;2102516f-6401-4042-9721-d2bfab74c948&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2tryIMTUCoO3emYGXylSfXf1OBM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -39,7 +54,8 @@
     "Python.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable"
+    "last_opened_file_path": "C:/לימודים שנה ב/Advanced Python",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
